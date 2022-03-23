@@ -6,9 +6,9 @@
   <span style=""> 텐투플레이의
   <span style="color: rgb(255, 105, 0); font-weight: bold;"> 특허 기술인 '행동경제학 엔진'은 </span>
   각각의 유저에게 <br>  
-  꼭 <span style="font-weight: bold;">  맞는 다채로운 게임 플레이를 가능하게 </span>  합니다
+  꼭 <span style="font-weight: bold;">  맞는 다채로운 게임 플레이를 가능하게 </span>  합니다.
 
-  </span>.<br><br>
+  </span><br><br>
 </p><div id="container">
     <a class="primary button" href="https://console.tentuplay.io/" target="_blank" style="">퍼스널라이징 시작하기</a>
     <a class="primary button" href="https://meetings.hubspot.com/h-kwon/tentuplay-demo" target="_blank" style="background-color: rgb(0, 0, 0) !important; border-color: rgb(0, 0, 0) !important;">
