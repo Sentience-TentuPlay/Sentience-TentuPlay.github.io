@@ -1,32 +1,31 @@
-## Welcome to GitHub Pages
+## Hello World, This is TentuPlay
 
-You can use the [editor on GitHub](https://github.com/Sentience-TentuPlay/Sentience-TentuPlay.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+<H1> Personalize Offers. Maximize Revenue. </H1>
+<H2> Provide the Right Offer to the Right Player at the Right Time. </H2>
+<H3> Using TentuPlay's patented technology Behavioral Economics Engine game developers can provide diverse gaming experience tailored to each fan. </H3>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### TentuPlay's Feature.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+TentuPlay offers various features to support your game
 
 ```markdown
-Syntax highlighted code block
+# AI In-Game Shop
+The AI analyzes players’ behaviors and segments them into 28 psychographic personas from Smart and Busy players to Character Collectors to PvP Lovers and many more. It also creates and sends offers in the context tailored to each Persona to maximize the conversion rate and revenue.
+1. Player segmentation into 28 psychographic personas
+2. Product and ad offers for each persona
+3. Automatic creation and transmission of offers
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+# Personalized Offers
+## The Right Offer to the Right Player
 
-1. Numbered
-2. List
+Maximize your revenue by fulfilling your players’ diverse needs. Simply set the product to offer, the target player group, the transmission timing, and the UI on the console. No need for extra coding. TENTUPLAY will send the offers to the players right away once the settings done.
 
-**Bold** and _Italic_ and `Code` text
+1. No need for extra coding
+2. Simple and easy settings
+3. Performance assessment of each campaign
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
 
